@@ -1,0 +1,122 @@
+{
+    "1": {
+        "titulo": "Se,  em 15 anos o salario minimo teve um aumento nominal de 300% e a inflacao foi de 100%,\n seria correto afirmar que o aumento real do salario minimo, nesse periodo, foi de",
+        "alternativas": "A) 50% \nB) 100% \nC) 150% \nD) 200% \nE) 250%",
+        "gabarito": "B",
+        "pesoNormal": 4,
+        "pesoCassino": 6,
+        "dificuldade": "F"
+    },
+    "2": {
+        "titulo": "A funcao E de Euler determina, para cada numero natural n, a quantidade de numeros naturais menores do que n cujo\n maximo divisor comum com n ݊seria igual a 1. Por exemplo, E(6) = 2 pois os numeros menores do que 6 com tal propriedade sao 1 e 5.\n Qual o valor maximo de E(n), para n de 20 a 25?",
+        "alternativas": "A) 19 \nB) 20 \nC) 22 \nD) 24 \nE) 25",
+        "gabarito": "C",
+        "pesoNormal": 8,
+        "pesoCassino": 10,
+        "dificuldade": "D"
+    },
+    "3": {
+        "titulo": "A familia de Carlos possui 5 pessoas: ele, sua esposa Ana e mais 3 filhos, que sao Carla, Vanessa e Tiago.\n Eles desejam tirar uma foto da familia para enviar como presente ao avo materno das criancas.\nDetermine o numero de possibilidades de os membros da familia poderem se organizar para tirar a foto e de quantas formas possiveis Carlos e Ana\n podem ficar lado a lado.",
+        "alternativas": "A) 120 e 24 \nB) 720 e 24 \nC) 120 e 48 \nD) 120 e 25 \nE) 720 e 48",
+        "gabarito": "C",
+        "pesoNormal": 6,
+        "pesoCassino": 8,
+        "dificuldade": "M"
+    },
+    "4": {
+        "titulo": "O diretor de uma escola convidou os 280 alunos de terceiro ano a participarem de uma brincadeira.\n Suponha que existem 5 objetos e 6 personagens numa casa de 9 comodos; um dos personagens esconde um dos objetos em um dos comodos da casa.\n O objetivo da brincadeira seria adivinhar qual objeto foi escondido por qual personagem e em qual comodo da casa o objeto foi escondido.\nTodos os alunos decidiram participar. A cada vez um aluno seria sorteado e da a sua resposta.\n As respostas devem ser sempre distintas das anteriores, e um mesmo aluno nao pode ser sorteado mais de uma vez.\n Se a resposta do aluno estiver correta, ele seria declarado vencedor e a brincadeira seria encerrada.O diretor sabe que algum aluno acertara a\n resposta porque ha",
+        "alternativas": "A) 10 alunos a mais do que possiveis respostas distintas. \nB) 12 alunos a mais do que possiveis respostas distintas. \nC) 11 alunos a mais do que possiveis respostas distintas. \nD) 15 alunos a mais do que possiveis respostas distintas. \nE) 20 alunos a mais do que possiveis respostas distintas.",
+        "gabarito": "A",
+        "pesoNormal": 8,
+        "pesoCassino": 10,
+        "dificuldade": "D"
+    },
+    "5": {
+        "titulo": "Na formacao de uma Comissao Parlamentar de Inquerito (CPI), cada partido indica um certo numero de membros,\n de acordo com o tamanho de sua representacao no Congresso Nacional. Faltam apenas dois partidos para indicar seus membros. \nO partido A tem 40 deputados e deve indicar 3 membros, enquanto o partido B tem 15 deputados e deve indicar 1 membro.\nAssinale a alternativa que apresenta o numero de possibilidades diferentes para a composicao dos membros desses dois partidos nessa CPI.",
+        "alternativas": "A) 55 \nB) (40 - 3) . (15-1) \nC) [40!/(37! . 3!)]. 15 \nD) 40 . 39 . 38 . 15 \nE) 40! . 37! . 15!",
+        "gabarito": "C",
+        "pesoNormal": 6,
+        "pesoCassino": 8,
+        "dificuldade": "M"
+    },
+    "6": {
+        "titulo": " A fim de reforcar o orcamento familiar, uma dona de casa comecou a produzir doces para revender.\n Cada receita seria composta de 4/5 de quilograma de amendoim e 1/5 de quilograma de acucar. O quilograma de amendoim custa R$ 10,00 e o do acucar,\n R$ 2,00. Porem, o acucar teve um aumento e o quilograma passou a custar R$ 2,20. Para manter o mesmo custo com a producao de uma receita,\n essa dona de casa tera que negociar um desconto com o fornecedor de amendoim. Nas condicoes estabelecidas, o novo valor do quilograma de\n amendoim devera ser igual a: ",
+        "alternativas": "A) R$ 9,20 \nB) R$ 9,75 \nC) R$ 9,80 \nD) R$ 9,84 \nE) R$ 9,95.",
+        "gabarito": "E",
+        "pesoNormal": 6,
+        "pesoCassino": 8,
+        "dificuldade": "M"
+    },
+    "7": {
+        "titulo": "'Eu tenho o dobro da idade que tu tinhas quando eu tinha a idade que tu tens; quando tiveres a idade que eu tenho,\n a soma das nossas idades sera 54 anos. Quais sao a minha e a tua idade atuais?'",
+        "alternativas": "A) 24 e 20 \nB) 24 e 18 \nC) 18 e 14 \nD) 18 e 20 \nE) 14 e 20",
+        "gabarito": "B",
+        "pesoNormal": 8,
+        "pesoCassino": 10,
+        "dificuldade": "D"
+    },
+    "8": {
+        "titulo": "Foi feita uma pesquisa sobre a escolaridade dos funcionarios de uma empresa. Verificou-se que 1/4 dos homens que ali trabalham\n tem o ensino medio completo, enquanto 2/3 das mulheres que trabalham na empresa tem o ensino medio completo. Constatou-se, tambem,\n que entre todos os que tem o ensino medio completo, metade sao homens. A fracao que representa o numero de funcionarios homens em relacao ao\n total de funcionarios dessa empresa seria:",
+        "alternativas": "A) 1/8 \nB) 8/11 \nC) 11/24 \nD) 2/3 \nE) 3/11",
+        "gabarito": "B",
+        "pesoNormal": 6,
+        "pesoCassino": 8,
+        "dificuldade": "M"
+    },
+    "9": {
+        "titulo": "A prefeitura de uma cidade esta renovando os canteiros de flores de suas pracas. Entre as possiveis variedades que poderiam\n ser plantadas, foram escolhidas cinco: amor-perfeito, cravina, petunia, margarida e lirio. Em cada um dos canteiros, todos com composicoes\n diferentes, serao utilizadas somente tres variedades distintas, nao importando como elas serao dispostas. Um funcionario deve determinar os\n trios de variedades de flores que irao compor cada canteiro. De acordo com o disposto, a quantidade de trios possiveis seria dada por",
+        "alternativas": "A) 5 \nB) 5 . 3 \nC) 5! / (5 - 3)! \nD) 5! / (5 - 3)!2! \nE)  5! / 3!(5-3)!",
+        "gabarito": "E",
+        "pesoNormal": 4,
+        "pesoCassino": 6,
+        "dificuldade": "F"
+    },
+    "10": {
+        "titulo": "Em um determinado ano, os computadores da receita federal de um pais identificaram como inconsistentes 20% das declaracoes de\n imposto de renda que lhe foram encaminhadas. Uma declaracao seria classificada como inconsistente quando apresenta algum tipo de erro ou conflito\n nas informacoes prestadas. Essas declaracoes consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram\n fraudulentas. Constatou-se ainda que, dentre as declaracoes que nao apresentaram inconsistencias, 6,25% eram fraudulentas.\n Qual seria a probabilidade de, nesse ano, a declaracao de um contribuinte ser considerada inconsistente, dado que ela era fraudulenta?",
+        "alternativas": "A) 0,5000 \nB) 0,1000 \nC) 0,1125 \nD) 0,3125 \nE) 0,0500",
+        "gabarito": "A",
+        "pesoNormal": 4,
+        "pesoCassino": 6,
+        "dificuldade": "F"
+    },
+    "11": {
+        "titulo": "Um motorista fez uma viagem de 100 km partindo da cidade A ate a cidade B. Nos primeiros 30 km, a velocidade media na qual\n esse motorista viajou foi de 90 km/h. No segundo trecho, de 40 km, a velocidade media foi de 80 km/h. Suponha que a viagem foi realizada em\n 1 h 30 min. A velocidade media do motorista, em quilometro por hora, no ultimo trecho da viagem foi de",
+        "alternativas": "A) 45 \nB) 67 \nC) 77 \nD) 85 \nE) 113.",
+        "gabarito": "A",
+        "pesoNormal": 4,
+        "pesoCassino": 6,
+        "dificuldade": "F"
+    },
+    "12": {
+        "titulo": "Um piscicultor cria uma especie de peixe em um tanque cilindrico. Devido as caracteristicas dessa especie, o tanque deve ter,\n exatamente, 2 metros de profundidade e ser dimensionado de forma a comportar 5 peixes para cada metro cubico de agua. Atualmente, o tanque\n comporta um total de 750 peixes. O piscicultor deseja aumentar a capacidade do tanque para que ele comporte 900 peixes, mas sem alterar a sua\n profundidade. Considere 3 como aproximacao para \u03C0. ",
+        "alternativas": "A) \u221A5 \nB) [\u221A30  - 5 ] / 2 \nC) \u221A30  - 5 \nD) 5/2 \nE) 15/2",
+        "gabarito": "C",
+        "pesoNormal": 6,
+        "pesoCassino": 8,
+        "dificuldade": "M"
+    },
+    "13": {
+        "titulo": "Um ferreiro vai confeccionar pedacos de barras de ferro de mesma medida. Ele dispoe de 35 barras de 270 cm, 18 de 540 cm e\n 6 de 810 cm, todas de igual largura. Ele pretende cortar as barras em pedacos de mesmo comprimento, sem deixar sobras, de modo que esses pedacos\n fiquem o maior possivel, mas de comprimento menor que 1 m. Quantas pedacos de barra de ferro o ferreiro pode produzir? ",
+        "alternativas": "A) 89 \nB) 178 \nC) 524 \nD) 524 \nE) 801",
+        "gabarito": "D",
+        "pesoNormal": 6,
+        "pesoCassino": 8,
+        "dificuldade": "M"
+    },
+    "14": {
+        "titulo": "Um fazendeiro precisava de 1 L de certo produto fabricado por tres industrias distintas.\n\u2022 A industria I comercializa o produto em embalagens de 250 mL por R$ 23,00 cada.\n\u2022 A industria II comercializa o produto em embalagens de 8 fl oz (onca fluida) por R$ 18,50 cada.\n\u2022 A industria III comercializa o produto em embalagens de 1 L por R$ 93,00 cada. \nO fazendeiro conseguiu adquirir a quantidade necessaria do produto de que precisava, de uma unica industria,\n gastando o menor valor possivel nessa compra. Considere que 1 L seja equivalente a 33,81 fl oz.Nessas condicoes, a quantidade de embalagens e a\n respectiva industria onde a compra foi realizada foram",
+        "alternativas": "A) cinco da industria II \nB) cinco da industria I \nC) quatro da industria II \nD) quatro da industria I \nE) uma da industria III.",
+        "gabarito": "D",
+        "pesoNormal": 6,
+        "pesoCassino": 8,
+        "dificuldade": "M"
+    },
+    "15": {
+        "titulo": "Uma pessoa chega ao hotel no qual fez uma pre-reserva com diaria no valor de R$ 210,00. Como a confirmacao da reserva nao foi feita, quando chegou\n ao hotel nao havia quarto disponivel. Dessa forma, o recepcionista apresentou-lhe algumas opcoes de hoteis com diarias mais baratas, mas localizados a\n certa distancia desse hotel, conforme apresentado.\n\u2022 H1: diaria de R$ 180,00 e distancia de 7 km;\n\u2022 H2: diaria de R$ 200,00 e distancia de 1,6 km;\n\u2022 H3: diaria de R$ 199,00 e distancia de 4,5 km;\n\u2022 H4: diaria de R$ 190,00 e distancia de 1,5 km;\n\u2022 H5: diaria de R$ 205,00 e distancia de 1,2 km. \nPara se locomover ate um outro hotel, essa pessoa utiliza um taxi que cobra R$ 2,50 por quilometro rodado mais taxa fixa de R$ 6,00.\n Sua escolha sera em funcao do menor custo, composto pelo valor da diaria mais a locomocao de taxi. O hotel escolhido foi o",
+        "alternativas": "A) H1 \nB) H2 \nC) H3 \nD) H4 \nE) H5",
+        "gabarito": "D",
+        "pesoNormal": 6,
+        "pesoCassino": 8,
+        "dificuldade": "M"
+    }
+}
